@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Tahira Awan
 ## I am Machine Learning Engineer
-![I am Machine Learning Engineer](https://img.freepik.com/free-vector/glowing-blue-cuircuit-lines-diagram_1017-33018.jpg?w=1800&t=st=1682711507~exp=1682712107~hmac=1ab1d9badb0ea5e9c06172119b3a492a9ece7a0ccb449d6e79bd47f2bcfd49f6)
+![I am Machine Learning Engineer](3.png)
 
 As a Machine Learning Engineer, I possess a diverse skill set that enables me to tackle complex challenges with ease. My proficiency in Python, TensorFlow, PyTorch, Computer Vision, and NLP allows me to design and develop state-of-the-art machine learning models and algorithms that deliver exceptional results.
 
