@@ -6,11 +6,11 @@
 
 As a Machine Learning Engineer, I possess a diverse skill set that enables me to tackle complex challenges with ease. My proficiency in Python, TensorFlow, PyTorch, Computer Vision, and NLP allows me to design and develop state-of-the-art machine learning models and algorithms that deliver exceptional results.
 
-With my expertise in Computer Vision, I can analyze and interpret visual data to create robust solutions that improve accuracy and efficiency. In addition, my extensive experience in Natural Language Processing (NLP) empowers me to build models that accurately process, understand, and generate human language, enabling me to create intelligent solutions that cater to a wide range of applications.
+My extensive experience in Natural Language Processing (NLP) empowers me to build models that accurately process, understand, and generate human language, enabling me to create intelligent solutions that cater to a wide range of applications.
 
 Whether it's designing complex machine learning models or implementing cutting-edge algorithms, I bring a unique blend of technical knowledge and creativity to every project. As a Machine Learning Engineer, I am passionate about exploring new technologies and techniques to push the boundaries of what's possible and create exceptional solutions that make a real difference.
 
-Skills: PYTHON / TENSORFLOW / PYTORCH / COMPUTER VISION / NLP
+Skills: PYTHON / TENSORFLOW / PYTORCH / NLP
 
 
 
